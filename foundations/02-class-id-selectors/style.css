@@ -11,6 +11,6 @@
 }
 #fourth-elem {
     background-color: lightgreen;
-    font-size: 24px;
+    /*font-size: 24px;     can reuse class cool for this*/
     font-weight: bold;
 }
